@@ -1,0 +1,16 @@
+/mnt/d/Data/segmetation/망막/train/image/36.png
+/mnt/d/Data/segmetation/망막/train/image/35.png
+/mnt/d/Data/segmetation/망막/train/image/53.png
+/mnt/d/Data/segmetation/망막/train/image/60.png
+/mnt/d/Data/segmetation/망막/train/image/52.png
+/mnt/d/Data/segmetation/망막/train/image/45.png
+/mnt/d/Data/segmetation/망막/train/image/37.png
+/mnt/d/Data/segmetation/망막/train/image/66.png
+/mnt/d/Data/segmetation/망막/train/image/26.png
+/mnt/d/Data/segmetation/망막/train/image/8.png
+/mnt/d/Data/segmetation/망막/train/image/33.png
+/mnt/d/Data/segmetation/망막/train/image/49.png
+/mnt/d/Data/segmetation/망막/train/image/25.png
+/mnt/d/Data/segmetation/망막/train/image/68.png
+/mnt/d/Data/segmetation/망막/train/image/56.png
+/mnt/d/Data/segmetation/망막/train/image/65.png

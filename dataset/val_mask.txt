@@ -1,0 +1,16 @@
+/mnt/d/Data/segmetation/망막/train/mask/36.png
+/mnt/d/Data/segmetation/망막/train/mask/35.png
+/mnt/d/Data/segmetation/망막/train/mask/53.png
+/mnt/d/Data/segmetation/망막/train/mask/60.png
+/mnt/d/Data/segmetation/망막/train/mask/52.png
+/mnt/d/Data/segmetation/망막/train/mask/45.png
+/mnt/d/Data/segmetation/망막/train/mask/37.png
+/mnt/d/Data/segmetation/망막/train/mask/66.png
+/mnt/d/Data/segmetation/망막/train/mask/26.png
+/mnt/d/Data/segmetation/망막/train/mask/8.png
+/mnt/d/Data/segmetation/망막/train/mask/33.png
+/mnt/d/Data/segmetation/망막/train/mask/49.png
+/mnt/d/Data/segmetation/망막/train/mask/25.png
+/mnt/d/Data/segmetation/망막/train/mask/68.png
+/mnt/d/Data/segmetation/망막/train/mask/56.png
+/mnt/d/Data/segmetation/망막/train/mask/65.png
